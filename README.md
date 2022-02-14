@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![banner](https://user-images.githubusercontent.com/43375226/153949728-00dbaa6b-8964-418c-92fd-2e6a8d33e9c4.png)
 <!--
 **myrdn/myrdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
