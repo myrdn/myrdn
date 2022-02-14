@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am Myrdin,
+
 I love coffee, hiking, juggling, running and static websites.
 
 I am learning web development by myself and at my own pace. Recently I have become interested in web accessibility.
