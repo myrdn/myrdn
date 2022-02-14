@@ -1,4 +1,7 @@
 ### Hi there 👋
+I love coffee, hiking, juggling and static websites.
+
+I am learning web development by myself and at my own pace. Recently I have become interested in web accessibility.
 
 ![banner](https://user-images.githubusercontent.com/43375226/153949728-00dbaa6b-8964-418c-92fd-2e6a8d33e9c4.png)
 <!--
